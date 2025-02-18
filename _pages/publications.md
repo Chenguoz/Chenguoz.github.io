@@ -14,7 +14,9 @@ nav_order: 2
 <!-- {% include bib_search.liquid %} -->
 
 <div class="publications">
-
+<p>
+Please see my <a href="https://scholar.google.com/citations?user=4vrufuAAAAAJ&hl=en">Google Scholar</a> for more recent works and arXiv papers.
+</p>
 {% bibliography %}
 
 </div>
