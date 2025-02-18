@@ -8,29 +8,29 @@
 "Vision":
   color: "#009f36"
 
-"CVPR":
-  color: "#00369f"
+# "CVPR":
+#   color: "#00369f"
 
-"ECCV":
-  color: "#00369f"
+# "ECCV":
+#   color: "#00369f"
 
-"ICCV":
-  color: "#00369f"
+# "ICCV":
+#   color: "#00369f"
 
-"IJCV":
-  color: "#00369f"
+# "IJCV":
+#   color: "#00369f"
 
-"NeurIPS":
-  color: "#00369f"
+# "NeurIPS":
+#   color: "#00369f"
 
-"WWW":
-  color: "#00369f"
+# "WWW":
+#   color: "#00369f"
   
-"PR":
-  color: "#00369f"
+# "PR":
+#   color: "#00369f"
 
-"NN":
-  color: "#00369f"
+# "NN":
+#   color: "#00369f"
   
-"Symmetry":
-  color: "#00369f"
+# "Symmetry":
+#   color: "#00369f"
