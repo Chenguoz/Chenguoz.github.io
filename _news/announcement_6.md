@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper on 3D point cloud keypoints generation is accepted to **NN'24**.
+One paper on 3D point cloud keypoints generation was accepted to **NN'24**.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper on few-shot learning is accepted to **PR'25**.
+One paper on few-shot learning was accepted to **PR'25**.

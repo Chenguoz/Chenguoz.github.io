@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I start a Research Intern at **JD.COM**.
+Started a Research Internship at **JD.COM**.

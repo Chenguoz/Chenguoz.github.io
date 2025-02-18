@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper on advertising image generation is accepted to **WWW'25**.
+One paper on advertising image generation was accepted to **WWW'25**.
