@@ -806,7 +806,12 @@ footer.sticky-bottom {
           }
         }
         a.award.btn {
-          border-color: var(--global-highlight-color);
+          border: 2px solid var(--global-text-color);
+          border-color: #836f00;
+          color: #b78200;
+          text-transform: capitalize;
+          font-weight: bold;
+          font-family: Times, "Times New Roman", "Liberation Serif", serif;
         }
       }
 
