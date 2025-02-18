@@ -23,16 +23,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+        },{id: "news-i-was-awarded-the-president-s-scholarship-at-china-university-of-geosciences",
+          title: 'I was awarded the President’s Scholarship at China University of Geosciences.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-we-ranked-national-15th-place-in-the-ccf-big-data-and-computational-intelligence-competition",
+          title: 'We ranked National 15th Place in the CCF Big Data and Computational Intelligence...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-we-won-the-national-first-prize-in-huawei-china-university-ict-competition-national-finals",
+          title: 'We won the National First Prize in Huawei China University ICT Competition National...',
+          description: "",
+          section: "News",},{id: "news-we-won-the-global-first-prize-in-huawei-ict-competition-global-finals",
+          title: 'We won the Global First Prize in Huawei ICT Competition Global Finals!',
+          description: "",
+          section: "News",},{id: "news-i-was-awarded-the-huawei-research-innovation-scholarship",
+          title: 'I was awarded the Huawei Research Innovation Scholarship.',
+          description: "",
+          section: "News",},{id: "news-one-paper-on-3d-point-cloud-keypoints-generation-is-accepted-to-nn-24",
+          title: 'One paper on 3D point cloud keypoints generation is accepted to NN’24.',
+          description: "",
+          section: "News",},{id: "news-one-paper-on-few-shot-learning-is-accepted-to-pr-25",
+          title: 'One paper on few-shot learning is accepted to PR’25.',
+          description: "",
+          section: "News",},{id: "news-one-paper-on-advertising-image-generation-is-accepted-to-www-25",
+          title: 'One paper on advertising image generation is accepted to WWW’25.',
           description: "",
           section: "News",},{
         id: 'social-email',
@@ -40,13 +53,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("mailto:%63%68%65%6E%78%69%6E%67%79%65@%68%75%73%74.%65%64%75.%63%6E", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
