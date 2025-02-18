@@ -1,12 +1,12 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Algorithm Engineer · Computer Vision Researcher · Master Student at HUST
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
 
 
